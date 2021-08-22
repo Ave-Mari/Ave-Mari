@@ -1,2 +1,2 @@
 **✨ Hi, I'm glad to see you here! ✨**
-My name is Mari, I am frontend developer from Moscow. 
+My name is Mari, I'm a frontend developer based in Moscow.
